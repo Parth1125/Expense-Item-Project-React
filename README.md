@@ -1,1 +1,3 @@
-# Expense-Item-Project-React
+To start this project
+1) npm install
+2) npm start
